@@ -1,0 +1,21 @@
+El equipo está compuesto por:
+
+Fernanda Bahamondes 
+Diana Gutierrez
+Lorenzo Fachinetti
+Brandon Lopez
+Fabian Tobar
+
+
+Lista para proyecto:
+
+- Menú
+
+- Login, Formulario de contacto
+
+- Carrito de compras 
+
+- Descripción del producto 
+
+- Botones de RRSS 
+
